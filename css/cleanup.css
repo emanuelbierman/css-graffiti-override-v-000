@@ -1,1 +1,10 @@
 /* write your override styles here */
+
+#wall .tag-1 {
+    display: none;
+}
+
+div :nth-child(n){
+    display: none;
+}
+
