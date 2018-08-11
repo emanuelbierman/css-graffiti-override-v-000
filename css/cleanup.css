@@ -4,6 +4,6 @@
     display: none;
 }
 
-#wall :nth-child(1){
+#wall :nth-child(n){
     display: none;
 }
